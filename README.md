@@ -1,5 +1,3 @@
-# Project-Netflix Clone
-
 # 🎬 Netflix Clone - HTML & CSS
 
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
